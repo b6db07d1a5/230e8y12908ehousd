@@ -1,0 +1,50 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * thongterm:
+ *   - http://typekit.com/eulas/00000000000000003b9b3bf9
+ *   - http://typekit.com/eulas/00000000000000003b9b3bfb
+ *   - http://typekit.com/eulas/00000000000000003b9b3bfc
+ *   - http://typekit.com/eulas/00000000000000003b9b3bfd
+ *   - http://typekit.com/eulas/00000000000000003b9b3bfe
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-10-07 07:41:42 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=ckk2yny&ht=tk&f=43774.43776.43777.43778.43779&a=34685101&app=typekit&e=css");
+
+@font-face {
+font-family:"thongterm";
+src:url("https://use.typekit.net/af/c7946c/00000000000000003b9b3bf9/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/c7946c/00000000000000003b9b3bf9/27/d?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/c7946c/00000000000000003b9b3bf9/27/a?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n3&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"thongterm";
+src:url("https://use.typekit.net/af/5cbfe0/00000000000000003b9b3bfb/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/5cbfe0/00000000000000003b9b3bfb/27/d?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/5cbfe0/00000000000000003b9b3bfb/27/a?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n4&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"thongterm";
+src:url("https://use.typekit.net/af/bb655d/00000000000000003b9b3bfc/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/bb655d/00000000000000003b9b3bfc/27/d?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/bb655d/00000000000000003b9b3bfc/27/a?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=i4&v=3") format("opentype");
+font-display:swap;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"thongterm";
+src:url("https://use.typekit.net/af/4e4d5e/00000000000000003b9b3bfd/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/4e4d5e/00000000000000003b9b3bfd/27/d?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/4e4d5e/00000000000000003b9b3bfd/27/a?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=n7&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"thongterm";
+src:url("https://use.typekit.net/af/f4495d/00000000000000003b9b3bfe/27/l?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/f4495d/00000000000000003b9b3bfe/27/d?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/f4495d/00000000000000003b9b3bfe/27/a?primer=fff1a989570eb474b8c22c57cc7199e63bfc7e911b750165d0199218f0b7e7cc&fvd=i7&v=3") format("opentype");
+font-display:swap;font-style:italic;font-weight:700;
+}
+
+.tk-thongterm { font-family: "thongterm",sans-serif; }
